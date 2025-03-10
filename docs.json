@@ -82,12 +82,17 @@
     }
   },
   "fonts": {
-    "family": "Geist",
-    "weight": [400, 600],
-    "source": {
-      "regular": "https://api.tapify.app/storage/v1/object/public/font//Geist-Regular.woff2",
-      "semibold": "https://api.tapify.app/storage/v1/object/public/font//Geist-SemiBold.woff2"
+    "heading": {
+      "family": "Geist",
+      "weight": 600,
+      "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-SemiBold.woff2",
+      "format": "woff2"
     },
-    "format": "woff2"
+    "body": {
+      "family": "Geist",
+      "weight": 400,
+      "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Regular.woff2",
+      "format": "woff2"
+    }
   }
 }
