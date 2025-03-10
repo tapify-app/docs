@@ -12,7 +12,7 @@
     "dropdowns": [
       {
         "dropdown": "Guides",
-        "icon": "book-open",
+        "icon": "people-group",
         "groups": [
           {
             "group": "Get Started",
