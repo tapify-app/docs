@@ -80,5 +80,14 @@
       "linkedin": "https://linkedin.com/company/tapifyapp",
       "x": "https://x.com/tapifyapp"
     }
+  },
+  "fonts": {
+    "family": "Geist",
+    "weight": [400, 600],
+    "source": {
+      "regular": "https://api.tapify.app/storage/v1/object/public/font//Geist-Regular.woff2",
+      "semibold": "https://api.tapify.app/storage/v1/object/public/font//Geist-SemiBold.woff2"
+    },
+    "format": "woff2"
   }
 }
