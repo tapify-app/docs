@@ -24,8 +24,8 @@
           {
             "group": "Team management",
             "pages": [
-              "teammanagement/markdown",
               "teammanagement/add",
+              "teammanagement/invite",
               "teammanagement/images",
               "teammanagement/settings",
               "teammanagement/navigation",
