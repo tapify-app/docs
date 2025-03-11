@@ -1,88 +1,43 @@
 ---
-title: 'Markdown Syntax'
-description: 'Text, title, and styling in standard markdown'
-icon: 'text-size'
+title: "Invite team members"
+description: "As an admin of a Tapify Workspace you can invite users to access and use their digital business card."
+icon: "text-size"
 ---
 
-## Titles
+## Sending invites
 
-Best used for section headers.
+Before sending invites to your users make sure everything in your workspace is setup correctly, learn more in the [Get](https://docs.tapify.app/introduction#getting-started)[ting started](https://docs.tapify.app/introduction#getting-started).
 
-```md
-## Titles
-```
+### Individual
 
-### Subtitles
+To invite a single team member:
 
-Best use to subsection headers.
+1. Navigate to your workspace's [Team management](https://tapify.app/).
 
-```md
-### Subtitles
-```
+2. Click the **three dots** next to the user you want to invite.
 
-<Tip>
+3. Select **Invite** from the dropdown menu.
 
-Each **title** and **subtitle** creates an anchor and also shows up on the table of contents on the right.
+4. Check if the right [permission](https://tapify.io/user-permissions) is set.
 
-</Tip>
+5. Click **Invite** to confirm.
 
-## Text Formatting
+### In bulk
 
-We support most markdown formatting. Simply add `**`, `_`, or `~` around text to format it.
+To invite multiple team members at once:
 
-| Style         | How to write it   | Result          |
-| ------------- | ----------------- | --------------- |
-| Bold          | `**bold**`        | **bold**        |
-| Italic        | `_italic_`        | _italic_        |
-| Strikethrough | `~strikethrough~` | ~strikethrough~ |
+1. Navigate to your workspace's [**Team management**](https://tapify.app).
 
-You can combine these. For example, write `**_bold and italic_**` to get **_bold and italic_** text.
+2. Select the team members you want to invite by checking their boxes.
 
-You need to use HTML to write superscript and subscript text. That is, add `<sup>` or `<sub>` around your text.
+3. Click **Invite** right at the top, it indicates how many users will be invited.
 
-| Text Size   | How to write it          | Result                 |
-| ----------- | ------------------------ | ---------------------- |
-| Superscript | `<sup>superscript</sup>` | <sup>superscript</sup> |
-| Subscript   | `<sub>subscript</sub>`   | <sub>subscript</sub>   |
+4. Check if the right [permission](https://tapify.io/user-permissions) is set.
 
-## Linking to Pages
+5. Click **Invite** to confirm.
 
-You can add a link by wrapping text in `[]()`. You would write `[link to google](https://google.com)` to [link to google](https://google.com).
 
-Links to pages in your docs need to be root-relative. Basically, you should include the entire folder path. For example, `[link to text](/writing-content/text)` links to the page "Text" in our components section.
 
-Relative links like `[link to text](../text)` will open slower because we cannot optimize them as easily.
-
-## Blockquotes
-
-### Singleline
-
-To create a blockquote, add a `>` in front of a paragraph.
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
-
-```md
-> Dorothy followed her through many of the beautiful rooms in her castle.
-```
-
-### Multiline
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
->
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-
-```md
-> Dorothy followed her through many of the beautiful rooms in her castle.
->
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-```
-
-### LaTeX
-
-Mintlify supports [LaTeX](https://www.latex-project.org) through the Latex component.
-
-<Latex>8 x (vk x H1 - H2) = (0,1)</Latex>
-
-```md
-<Latex>8 x (vk x H1 - H2) = (0,1)</Latex>
-```
+<Info>
+  Emails will be always sent the the **account email address** of the user.
+</Info>
