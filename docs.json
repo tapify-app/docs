@@ -1,3 +1,5 @@
+Now listen carefully, only change the parsing issue. I don't want you to change anything else. No changes of names or strucutre:
+
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
@@ -24,42 +26,33 @@
           {
             "group": "Team management",
             "pages": [
-              "team/status-types"
-            ]
-          },
-          {
-            "group": "Team members",
-            "pages": [
+              {"group": "Team members", 
+                "pages": [
               "team/add",
               "team/edit",
               "team/invite",
               "team/delete"
+                ]
+              },
+              "team/status-types"
             ]
           },
           {
             "group": "Configure",
-            "pages": []
-          },
-          {
-            "group": "Templates",
             "pages": [
-              "templates/profile",
+              { "group": "Templates",
+              "pages": ["templates/profile",
               "templates/applewallet",
-              "templates/googlewallet"
-            ]
-          },
-          {
-            "group": "Settings",
-            "pages": [
-              "settings/permissions",
+              "templates/googlewallet"]
+              },
+              { "group": "Settings",
+              "pages": ["settings/permissions",
               "settings/groups",
-              "settings/administrators"
-            ]
-          },
-          {
-            "group": "Billing",
-            "pages": [
-              "settings/billing"
+              "settings/administrators"]
+              },
+              { "group": "Billing",
+              "pages": ["settings/billing"]
+              }
             ]
           }
         ]
@@ -116,15 +109,15 @@
       "weights": {
         "regular": {
           "weight": 400,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-Regular.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Regular.woff2"
         },
         "semibold": {
           "weight": 600,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-SemiBold.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-SemiBold.woff2"
         },
         "bold": {
           "weight": 700,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-Bold.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Bold.woff2"
         }
       },
       "format": "woff2"
@@ -134,15 +127,15 @@
       "weights": {
         "regular": {
           "weight": 400,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-Regular.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Regular.woff2"
         },
         "medium": {
           "weight": 500,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-Medium.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Medium.woff2"
         },
         "semibold": {
           "weight": 600,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-SemiBold.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-SemiBold.woff2"
         }
       },
       "format": "woff2"
