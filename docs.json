@@ -18,19 +18,18 @@
             "group": "Tapify 101",
             "pages": [
               "introduction",
-              "concepts",
-              "development"
+              "concepts"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Team management",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "teammanagement/markdown",
+              "teammanagement/code",
+              "teammanagement/images",
+              "teammanagement/settings",
+              "teammanagement/navigation",
+              "teammanagement/reusable-snippets"
             ]
           }
         ]
