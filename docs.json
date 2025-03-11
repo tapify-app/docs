@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Tapify",
   "colors": {
-    "primary": "#171717",
+    "primary": "#145ff4",
     "light": "#ededed",
     "dark": "#fafafa"
   },
