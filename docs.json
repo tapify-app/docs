@@ -3,8 +3,8 @@
   "theme": "maple",
   "name": "Tapify",
   "colors": {
-    "primary": "#145ff4",
-    "light": "#ededed",
+    "primary": "#171717",
+    "light": "#145ff4",
     "dark": "#fafafa"
   },
   "favicon": "favicon.svg",
