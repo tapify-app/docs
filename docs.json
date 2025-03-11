@@ -24,9 +24,11 @@
           {
             "group": "Team management",
             "pages": [
-              "teammanagement/add",
-              "teammanagement/invite",
-              "teammanagement/status-types"
+              "team/add",
+              "team/edit",
+              "team/invite",
+              "team/delete",
+              "team/status-types"
             ]
           },
           {
