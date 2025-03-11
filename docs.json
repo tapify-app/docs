@@ -30,11 +30,11 @@
             ]
           },
           {
-            "group": "Configure",
+            "group": "Templates",
             "pages": [
-              "configure/templates/profile",
-              "configure/templates/applewallet",
-              "configure/templates/googlewallet"
+              "templates/workspace/profile",
+              "templates/workspace/applewallet",
+              "templates/workspace/googlewallet"
             ]
           }
         ]
