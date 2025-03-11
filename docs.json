@@ -42,7 +42,8 @@
             "pages": [
               "settings/permissions",
               "settings/groups",
-              "settings/administrators"
+              "settings/administrators",
+              "settings/billing"
             ]
           }
         ]
