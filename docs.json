@@ -24,13 +24,14 @@
           {
             "group": "Team management",
             "pages": [
+              "team/status-types"
+            ],
               {"group": "Team members", 
                 "pages": [
               "team/add",
               "team/edit",
               "team/invite",
-              "team/delete"],
-              "team/status-types
+              "team/delete"]
               },
             ]
           },
