@@ -15,7 +15,7 @@
         "icon": "people-group",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Tapify 101",
             "pages": [
               "introduction",
               "quickstart",
