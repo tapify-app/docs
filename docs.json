@@ -30,24 +30,23 @@
             ]
           },
           {
-            "group": "Templates",
+            "group": "Configure",
             "pages": [
-              "templates/profile",
+              { "group": "Templates",
+              "pages": ["templates/profile",
               "templates/applewallet",
-              "templates/googlewallet"
-            ]
-          },
-          {
-            "group": "Settings",
-            "pages": [
-              "settings/permissions",
+              "templates/googlewallet"]
+              },
+              { "group": "Settings",
+              "pages": [settings/permissions",
               "settings/groups",
-              "settings/administrators",
+              "settings/administrators"]
+              },
               { "group": "Billing",
               "pages": ["settings/billing"]
               }
             ]
-          }
+          },
         ]
       },
       {
