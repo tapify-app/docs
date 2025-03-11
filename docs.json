@@ -4,7 +4,7 @@
   "name": "Tapify",
   "colors": {
     "primary": "#171717",
-    "light": "#145ff4",
+    "light": "#ededed",
     "dark": "#fafafa"
   },
   "favicon": "favicon.svg",
