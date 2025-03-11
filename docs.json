@@ -30,16 +30,11 @@
             ]
           },
           {
-            "group": "Configure",
-            "group": [
-              {
-                "group": "Templates",
-                "pages": [
-                  "templates/workspace/profile",
-                  "templates/workspace/applewallet",
-                  "templates/workspace/googlewallet"
-                ]
-              }
+            "group": "Templates",
+            "pages": [
+              "templates/profile",
+              "templates/applewallet",
+              "templates/googlewallet"
             ]
           }
         ]
@@ -96,15 +91,15 @@
       "weights": {
         "regular": {
           "weight": 400,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-Regular.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Regular.woff2"
         },
         "semibold": {
           "weight": 600,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-SemiBold.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-SemiBold.woff2"
         },
         "bold": {
           "weight": 700,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-Bold.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Bold.woff2"
         }
       },
       "format": "woff2"
@@ -114,15 +109,15 @@
       "weights": {
         "regular": {
           "weight": 400,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-Regular.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Regular.woff2"
         },
         "medium": {
           "weight": 500,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-Medium.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-Medium.woff2"
         },
         "semibold": {
           "weight": 600,
-          "source": "https://api.tapify.app/storage/v1/object/public/font/Geist-SemiBold.woff2"
+          "source": "https://api.tapify.app/storage/v1/object/public/font//Geist-SemiBold.woff2"
         }
       },
       "format": "woff2"
