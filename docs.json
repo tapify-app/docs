@@ -28,6 +28,14 @@
               "teammanagement/invite",
               "teammanagement/status-types"
             ]
+          },
+          {
+            "group": "Configure",
+            "pages": [
+              "configure/templates/profile",
+              "configure/templates/applewallet",
+              "configure/templates/googlewallet"
+            ]
           }
         ]
       },
