@@ -32,12 +32,9 @@
           {
             "group": "Configure",
             "pages": [
-    {
-      "group": "Templates",
-      "pages": [
-        "configure/templates/profile",
-        "configure/templates/applewallet",
-        "configure/templates/googlewallet"
+              "configure/templates/profile",
+              "configure/templates/applewallet",
+              "configure/templates/googlewallet"
             ]
           }
         ]
