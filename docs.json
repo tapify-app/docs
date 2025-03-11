@@ -11,8 +11,33 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Teams",
+        "dropdown": "Teams / Enterprise",
         "icon": "people-group",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "Essentials",
+            "pages": [
+              "essentials/markdown",
+              "essentials/code",
+              "essentials/images",
+              "essentials/settings",
+              "essentials/navigation",
+              "essentials/reusable-snippets"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Team Member",
+        "icon": "user-group",
         "groups": [
           {
             "group": "Get Started",
