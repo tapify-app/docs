@@ -38,7 +38,7 @@
               "templates/googlewallet"]
               },
               { "group": "Settings",
-              "pages": [settings/permissions",
+              "pages": ["settings/permissions",
               "settings/groups",
               "settings/administrators"]
               },
