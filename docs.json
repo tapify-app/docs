@@ -25,7 +25,7 @@
             "group": "Team management",
             "pages": [
               "teammanagement/markdown",
-              "teammanagement/code",
+              "teammanagement/add",
               "teammanagement/images",
               "teammanagement/settings",
               "teammanagement/navigation",
