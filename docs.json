@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Tapify",
   "colors": {
     "primary": "#171717",
-    "light": "#fafafa",
-    "dark": "#c91685"
+    "light": "#145ff4",
+    "dark": "#145ff4"
   },
   "favicon": "favicon.svg",
   "navigation": {
