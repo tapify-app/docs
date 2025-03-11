@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "Tapify",
   "colors": {
     "primary": "#171717",
@@ -13,31 +13,6 @@
       {
         "dropdown": "Teams / Enterprise",
         "icon": "people-group",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "dropdown": "Team Member",
-        "icon": "user-group",
         "groups": [
           {
             "group": "Get Started",
