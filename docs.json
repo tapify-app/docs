@@ -26,18 +26,7 @@
             "pages": [
               "teammanagement/add",
               "teammanagement/invite",
-              "teammanagement/status",
-              "teammanagement/settings",
-              "teammanagement/navigation",
-              "teammanagement/reusable-snippets"
-            ]
-          },
-          {
-            "group": "Templates",
-            "pages": [
-              "templates/tapifyprofile",
-              "templates/applewallet",
-              "templates/googlewallet",
+              "teammanagement/images"
             ]
           }
         ]
