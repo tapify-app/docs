@@ -50,9 +50,12 @@
               "settings/administrators",
               "settings/workspace"]
               },
-              { "group": "Billing",
-              "pages": ["settings/billing"]
-              }
+              { "group": "Advanced",
+              "pages": ["settings/advanced/domain",
+              "settings/advanced/scim",
+              "settings/advanced/sso"]
+              },
+              "settings/billing"
             ]
           },
           {
