@@ -32,11 +32,12 @@
               "team/delete"
                 ]
               },
-              "team/status-types"
+              "team/status-types",
+              "team/share"
             ]
           },
           {
-            "group": "Configure",
+            "group": "Workspace",
             "pages": [
               { "group": "Templates",
               "pages": ["templates/profile",
@@ -46,11 +47,20 @@
               { "group": "Settings",
               "pages": ["settings/permissions",
               "settings/groups",
-              "settings/administrators"]
+              "settings/administrators",
+              "settings/workspace"]
               },
               { "group": "Billing",
               "pages": ["settings/billing"]
               }
+            ]
+          },
+          {
+            "group": "Tapify Card",
+            "pages": [
+              "card/design",
+              "card/order",
+              "card/assign"
             ]
           }
         ]
