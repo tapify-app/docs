@@ -11,8 +11,8 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Teams / Enterprise",
-        "icon": "people-group",
+        "dropdown": "Workspace",
+        "icon": "screen-users",
         "groups": [
           {
             "group": "Tapify 101",
@@ -70,7 +70,7 @@
       },
       {
         "dropdown": "Individual",
-        "icon": "square-terminal",
+        "icon": "square-user",
         "groups": [
           {
             "group": "API Documentation",
