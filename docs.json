@@ -17,8 +17,8 @@
           {
             "group": "Tapify 101",
             "pages": [
-              "introduction",
-              "concepts"
+              "workspace/introduction",
+              "workspace/concepts"
             ]
           },
           {
@@ -26,44 +26,44 @@
             "pages": [
               {"group": "Team members", 
                 "pages": [
-              "team/add",
-              "team/edit",
-              "team/invite",
-              "team/delete"
+              "workspace/team/add",
+              "workspace/team/edit",
+              "workspace/team/invite",
+              "workspace/team/delete"
                 ]
               },
-              "team/status-types",
-              "team/share"
+              "workspace/team/status-types",
+              "workspace/team/share"
             ]
           },
           {
             "group": "Workspace",
             "pages": [
               { "group": "Templates",
-              "pages": ["templates/profile",
-              "templates/applewallet",
-              "templates/googlewallet"]
+              "pages": ["workspace/templates/profile",
+              "workspace/templates/applewallet",
+              "workspace/templates/googlewallet"]
               },
               { "group": "Settings",
-              "pages": ["settings/permissions",
-              "settings/groups",
-              "settings/administrators",
-              "settings/workspace"]
+              "pages": ["workspace/settings/permissions",
+              "workspace/settings/groups",
+              "workspace/settings/administrators",
+              "workspace/settings/general"]
               },
               { "group": "Advanced",
-              "pages": ["settings/advanced/domain",
-              "settings/advanced/scim",
-              "settings/advanced/sso"]
+              "pages": ["workspace/settings/advanced/domain",
+              "workspace/settings/advanced/scim",
+              "workspace/settings/advanced/sso"]
               },
-              "settings/billing"
+              "workspace/settings/billing"
             ]
           },
           {
             "group": "Tapify Card",
             "pages": [
-              "card/design",
-              "card/order",
-              "card/assign"
+              "workspace/card/design",
+              "workspace/card/order",
+              "workspace/card/assign"
             ]
           }
         ]
