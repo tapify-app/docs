@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "maple",
   "name": "Tapify",
   "colors": {
     "primary": "#171717",
@@ -75,16 +75,16 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/introduction"
+              "individual/introduction"
             ]
           },
           {
             "group": "Endpoint Examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "individual/endpoint/get",
+              "individual/endpoint/create",
+              "individual/endpoint/delete",
+              "individual/endpoint/webhook"
             ]
           }
         ]
