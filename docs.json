@@ -82,7 +82,7 @@
             "group": "Tapify Profile",
             "pages": [
               "individual/profile/branding",
-              "individual/profile/content",
+              "individual/profile/details",
               {"group": "Actions",
                 "pages": ["individual/profile/save",
               "individual/profile/exchange"]
@@ -92,7 +92,7 @@
           {
             "group": "Wallet",
             "pages": [
-              {"group": "Customize", 
+              {"group": "Branding", 
                 "pages": [
               "individual/wallet/apple",
               "individual/wallet/google"
@@ -106,7 +106,7 @@
             "group": "Tapify Card",
             "pages": [
               "individual/card/order",
-              "individual/card/design",
+              "individual/card/customize",
               "individual/card/howto"
             ]
           }
