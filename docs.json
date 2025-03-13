@@ -81,11 +81,11 @@
           {
             "group": "Tapify Profile",
             "pages": [
-              "individual/profile/customize",
+              "individual/profile/branding",
               "individual/profile/content",
-              {"group": "Buttons",
-                "pages": ["individual/profile/button-save",
-              "individual/profile/button-exchange"]
+              {"group": "Actions",
+                "pages": ["individual/profile/save",
+              "individual/profile/exchange"]
               }
             ]
           },
