@@ -50,7 +50,7 @@
               "workspace/settings/administrators",
               "workspace/settings/general"]
               },
-              { "group": "Advanced",
+              // { "group": "Advanced",
               "pages": ["workspace/settings/advanced/domain",
               "workspace/settings/advanced/scim",
               "workspace/settings/advanced/sso"]
