@@ -99,15 +99,14 @@
                 ]
               },
               "individual/wallet/add",
-              "individual/wallet/howto"
+              "individual/wallet/how-to-use"
             ]
           },
           {
             "group": "Tapify Card",
             "pages": [
-              "individual/card/order",
               "individual/card/customize",
-              "individual/card/howto"
+              "individual/card/how-to-use"
             ]
           }
         ]
