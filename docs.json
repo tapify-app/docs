@@ -73,18 +73,41 @@
         "icon": "square-user",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Tapify 101",
             "pages": [
               "individual/introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Tapify Profile",
             "pages": [
-              "individual/endpoint/get",
-              "individual/endpoint/create",
-              "individual/endpoint/delete",
-              "individual/endpoint/webhook"
+              "individual/profile/customize",
+              "individual/profile/content",
+              {"group": "Buttons",
+                "pages": ["individual/profile/button-save",
+              "individual/profile/button-exchange"]
+              }
+            ]
+          },
+          {
+            "group": "Wallet",
+            "pages": [
+              {"group": "Customize", 
+                "pages": [
+              "individual/wallet/apple",
+              "individual/wallet/google"
+                ]
+              },
+              "individual/wallet/add",
+              "individual/wallet/howto"
+            ]
+          },
+          {
+            "group": "Tapify Card",
+            "pages": [
+              "individual/card/order",
+              "individual/card/design",
+              "individual/card/howto"
             ]
           }
         ]
