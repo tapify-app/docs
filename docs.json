@@ -81,8 +81,8 @@
           {
             "group": "Tapify Profile",
             "pages": [
-              "individual/profile/branding",
               "individual/profile/details",
+              "individual/profile/branding",
               {"group": "Actions",
                 "pages": ["individual/profile/save",
               "individual/profile/exchange"]
